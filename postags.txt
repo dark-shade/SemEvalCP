@@ -1,0 +1,3 @@
+[('obviously', 'RB'), ('one', 'CD'), ('important', 'JJ'), ('feature', 'NN'), ('computer', 'NN'), ('human', 'JJ'), ('interface', 'NN')]
+[('good', 'JJ'), ('every', 'DT'), ('day', 'NN'), ('computing', 'NN'), ('web', 'NN'), ('browsing', 'VBG')]
+[('keyboard', 'NN'), ('alright', 'JJ'), ('plate', 'NN'), ('around', 'IN'), ('cheap', 'JJ'), ('plastic', 'NN'), ('make', 'VBP'), ('hollow', 'JJ'), ('sound', 'NN'), ('using', 'VBG'), ('mouse', 'NN'), ('command', 'NN'), ('button', 'NN')]
